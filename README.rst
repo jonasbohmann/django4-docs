@@ -1,7 +1,7 @@
 django4-docs
-===========
+============
 
-`django-docs` allows to serve Sphinx generated docs directly from Django.
+`django4-docs` allows to serve Sphinx generated docs directly from Django.
 
 
 This is a fork of django-docs and was updated to work with Django 4.
