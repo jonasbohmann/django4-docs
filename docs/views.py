@@ -14,7 +14,7 @@ from functools import wraps
 from django.contrib.admin.forms import AdminAuthenticationForm
 from django.contrib.auth.views import LoginView
 from django.contrib.admin.views.decorators import staff_member_required
-from django.utils.translation import ugettext as _
+from django.utils.translation import gettext as _
 
 
 def superuser_required(view_func):

@@ -1,16 +1,11 @@
-django-docs
+django4-docs
 ===========
 
-.. image:: https://img.shields.io/travis/littlepea/django-docs.svg?style=flat-square
-    :target: http://travis-ci.org/littlepea/django-docs
-
-.. image:: https://img.shields.io/pypi/v/django-docs.svg?style=flat-square
-    :target:  https://pypi.python.org/pypi/django-docs/
-
-.. image:: https://img.shields.io/badge/license-New%20BSD-blue.svg?style=flat-square
-    :target: https://raw.githubusercontent.com/littlepea/django-docs/master/LICENSE
-
 `django-docs` allows to serve Sphinx generated docs directly from Django.
+
+
+This is a fork of django-docs and was updated to work with Django 4.
+
 
 Dependencies
 ------------
@@ -21,7 +16,8 @@ Dependencies
 Credits
 -------
 
-* Project on GitHub: `littlepea/django-docs <https://github.com/littlepea/django-docs/>`_
+* This fork on GitHub: `jonasbohmann/django4-docs/ <https://github.com/jonasbohmann/django4-docs/>`_
+* Original Project on GitHub: `littlepea/django-docs <https://github.com/littlepea/django-docs/>`_
 * `Documentation on Read The Docs <https://django-docs.readthedocs.org/>`_
 * Maintained by `Evgeny Demchenko <https://github.com/littlepea>`_
 

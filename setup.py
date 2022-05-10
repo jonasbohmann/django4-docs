@@ -20,21 +20,21 @@ except:
 
 
 setup(
-    name='django-docs',
+    name='django4-docs',
     version=__import__('docs').__version__,
     author='Evgeny Demchenko',
     author_email='little_pea@list.ru',
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/littlepea/django-docs',
+    url='https://github.com/jonasbohmann/django4-docs',
     license='BSD',
     description=u' '.join(__import__('docs').__doc__.splitlines()).strip(),
     classifiers=[
         'Topic :: Internet :: WWW/HTTP :: Dynamic Content',
         'Intended Audience :: Developers',
         'Programming Language :: Python',      
-        'Programming Language :: Python :: 2.6',
-        'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 2',
         'Framework :: Django',
         'Development Status :: 4 - Beta',
         'Operating System :: OS Independent',
