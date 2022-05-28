@@ -26,7 +26,7 @@ Installation
 
 1. Install `django-docs` package::
 
-    pip install django-docs
+    pip install django4-docs
 
 2. Add `docs` to INSTALLED_APPS in settings.py::
 
